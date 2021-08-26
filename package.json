@@ -1,0 +1,16 @@
+{
+  "name": "pets-grooming-graphql",
+  "version": "1.0.0",
+  "description": "Implementation of a Javascript graphql application for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neel Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1"
+  }
+}
